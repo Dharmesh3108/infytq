@@ -5,7 +5,7 @@ def find_pairs_of_numbers(num_list,n):
         if(num_list[i]+num_list[j]==n):
           count=count+1
   print(count)        
-    #Remove pass and write your logic here
+  
 
 num_list=[1, 2, 4, 5, 6]
 n=6
