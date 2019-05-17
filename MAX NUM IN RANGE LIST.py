@@ -1,4 +1,4 @@
-def find_max(num1, num2):
+Edef find_max(num1, num2):
     max_num=-1
     sum=0
     count=0
